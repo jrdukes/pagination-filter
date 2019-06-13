@@ -1,4 +1,4 @@
-# JS Pagination and Search Project
+# JavaScript List Pagination & Search
 
 ## Requirements
 
