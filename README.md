@@ -1,4 +1,4 @@
-# JavaScript List Pagination & Search
+# JavaScript List Pagination & Filter
 
 ## Requirements
 
