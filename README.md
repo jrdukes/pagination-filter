@@ -23,3 +23,7 @@
 - [x] As the user types in the search box, dynamically filter the student listings. In other words, after each letter is typed into the search box, display any listings that match .
 
 - [x] If no matches are found, include a message in the HTML to tell the user there are no matches.
+
+## View Project
+
+View [Live Demo](https://jrdukes.github.io/pagination-filter/)
