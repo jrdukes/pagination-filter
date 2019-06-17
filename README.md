@@ -26,4 +26,4 @@
 
 ## View Project
 
-View [Live Demo](https://jrdukes.github.io/pagination-filter/)
+View live demo of project [here.](https://jrdukes.github.io/pagination-filter/)
