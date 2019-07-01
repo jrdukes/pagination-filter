@@ -18,7 +18,7 @@
 
 - [x] Search results should also be paginated. For example, if the search returns more than 10 results, those results should be paginated too.
 
-## Extra Credit
+## Additional Functions
 
 - [x] As the user types in the search box, dynamically filter the student listings. In other words, after each letter is typed into the search box, display any listings that match .
 
