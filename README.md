@@ -2,8 +2,6 @@
 
 ## Requirements
 
-- [x] Use the filters-example.html file to guide your decision making. Using progressive enhancement, your work should affect the index.html file.
-
 - [x] Since only 10 students should be shown at a time, your programming needs to calculate the number of pages needed and add the appropriate number of links to the bottom of the page.
 
 - [x] Hide all but the first 10 students when the page loads.
